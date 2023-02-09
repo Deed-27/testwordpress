@@ -1,0 +1,13 @@
+/
+/2023/02/09/chao-moi-nguoi/
+/2023/02/09/chao-moi-nguoi/feed/
+/Trang%20mẫu/
+/category/khong-phan-loai/
+/comments/feed/
+/feed/
+/wp-includes/blocks/navigation/style.min.css
+/wp-includes/blocks/navigation/view-modal.min.js
+/wp-includes/blocks/navigation/view.min.js
+/wp-json/
+/wp-json/oembed/1.0/embed
+/wp-json/wp/v2/posts/1

@@ -1,0 +1,500 @@
+2023-02-09 03:03:23
+PHP VERSION 8.2.0
+OS VERSION Windows NT LAPTOP-TUFI7 10.0 build 19045 (Windows 10) AMD64
+WP VERSION 6.1.1
+WP URL http://localhost/wordpress
+WP SITEURL http://localhost/wordpress
+WP HOME http://localhost/wordpress
+WP ADDRESS http://localhost/wordpress
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://deed-27.github.io/testwordpress/
+PERMALINK STRUCTURE /%year%/%monthnum%/%day%/%postname%/
+SERVER SOFTWARE Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0
+Active plugins:
+wp2static-wp2static-6.6.8/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: 
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: 
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 
+crawl_increment: 
+crawlPort: 
+debug_mode: 
+detection_level: 
+delayBetweenAPICalls: 
+deployBatchSize: 
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: 
+ghCommitMessage: 
+ghPath: 
+ghRepo: 
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: 
+targetFolder: 
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+random
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+xmlreader
+xmlwriter
+apache2handler
+openssl
+curl
+fileinfo
+gettext
+mbstring
+exif
+mysqli
+pdo_mysql
+pdo_sqlite
+Phar
+ftp
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/blocks/navigation/style.min.css
+Adding discovered URL: /wp-includes/blocks/navigation/view.min.js
+Adding discovered URL: /wp-includes/blocks/navigation/view-modal.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: 
+Adding discovered URL: /Trang%20mẫu/
+Adding discovered URL: /2023/02/09/chao-moi-nguoi/
+SAVING / to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/index.html
+Memory allocated by crawl script: 34816
+Exclusion rules wp-json
+Crawling /2023/02/09/chao-moi-nguoi/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2023/02/09/chao-moi-nguoi/feed/
+Adding discovered URL: /wp-includes/blocks/navigation/style.min.css
+Adding discovered URL: /wp-includes/blocks/navigation/view.min.js
+Adding discovered URL: /wp-includes/blocks/navigation/view-modal.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/posts/1
+Adding discovered URL: /2023/02/09/chao-moi-nguoi/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: 
+Adding discovered URL: /Trang%20mẫu/
+Adding discovered URL: /category/khong-phan-loai/
+SAVING /2023/02/09/chao-moi-nguoi/ to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/2023/02/09/chao-moi-nguoi/index.html
+Memory allocated by crawl script: 28672
+Exclusion rules wp-json
+Crawling /category/khong-phan-loai/
+BAD RESPONSE STATUS (404): /category/khong-phan-loai/
+Memory allocated by crawl script: 26624
+Exclusion rules wp-json
+Crawling /category/khong-phan-loai/page/1
+BAD RESPONSE STATUS (404): /category/khong-phan-loai/page/1
+Memory allocated by crawl script: 24576
+Exclusion rules wp-json
+Crawling /favicon.ico
+BAD RESPONSE STATUS (404): /favicon.ico
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /sitemap.xml
+SAVING /sitemap.xml to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/\/sitemap.xml
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /trang/page/1
+BAD RESPONSE STATUS (404): /trang/page/1
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wordpress/
+BAD RESPONSE STATUS (404): /wordpress/
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wordpress/2023/
+BAD RESPONSE STATUS (404): /wordpress/2023/
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wordpress/2023/02/
+BAD RESPONSE STATUS (404): /wordpress/2023/02/
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wordpress/2023/02/09/
+BAD RESPONSE STATUS (404): /wordpress/2023/02/09/
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wordpress/2023/02/09/chao-moi-nguoi/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2023/02/09/chao-moi-nguoi/feed/
+Adding discovered URL: /wp-includes/blocks/navigation/style.min.css
+Adding discovered URL: /wp-includes/blocks/navigation/view.min.js
+Adding discovered URL: /wp-includes/blocks/navigation/view-modal.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/posts/1
+Adding discovered URL: /2023/02/09/chao-moi-nguoi/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: 
+Adding discovered URL: /Trang%20mẫu/
+Adding discovered URL: /category/khong-phan-loai/
+SAVING /wordpress/2023/02/09/chao-moi-nguoi/ to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wordpress/2023/02/09/chao-moi-nguoi/index.html
+Memory allocated by crawl script: 24576
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\dm-sans\DMSans-Bold-Italic.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\dm-sans\DMSans-Bold-Italic.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\dm-sans/DMSans-Bold-Italic.woff2
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\dm-sans\DMSans-Bold.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\dm-sans\DMSans-Bold.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\dm-sans/DMSans-Bold.woff2
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\dm-sans\DMSans-Regular-Italic.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\dm-sans\DMSans-Regular-Italic.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\dm-sans/DMSans-Regular-Italic.woff2
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\dm-sans\DMSans-Regular.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\dm-sans\DMSans-Regular.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\dm-sans/DMSans-Regular.woff2
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Bold.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Bold.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono/IBMPlexMono-Bold.woff2
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Italic.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Italic.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono/IBMPlexMono-Italic.woff2
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Light.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Light.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono/IBMPlexMono-Light.woff2
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Regular.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Regular.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\ibm-plex-mono/IBMPlexMono-Regular.woff2
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\inter\Inter-VariableFont_slnt,wght.ttf
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\inter\Inter-VariableFont_slnt,wght.ttf to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\inter/Inter-VariableFont_slnt,wght.ttf
+Memory allocated by crawl script: 24576
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Italic.otf.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Italic.otf.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro/SourceSerif4Variable-Italic.otf.woff2
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Italic.ttf.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Italic.ttf.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2
+Memory allocated by crawl script: 24576
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Roman.otf.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Roman.otf.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro/SourceSerif4Variable-Roman.otf.woff2
+Memory allocated by crawl script: 24576
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Roman.ttf.woff2
+SAVING /wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Roman.ttf.woff2 to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\assets\fonts\source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+Memory allocated by crawl script: 24576
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\parts\comments.html
+SAVING /wp-content/themes/twentytwentythree\parts\comments.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\parts/comments.html
+Memory allocated by crawl script: 24576
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\parts\footer.html
+SAVING /wp-content/themes/twentytwentythree\parts\footer.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\parts/footer.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\parts\header.html
+SAVING /wp-content/themes/twentytwentythree\parts\header.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\parts/header.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\parts\post-meta.html
+SAVING /wp-content/themes/twentytwentythree\parts\post-meta.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\parts/post-meta.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\screenshot.png
+SAVING /wp-content/themes/twentytwentythree\screenshot.png to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/screenshot.png
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\style.css
+NOT SAVING EMTPY FILE /wp-content/themes/twentytwentythree\style.css
+Memory allocated by crawl script: 24576
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\styles\aubergine.json
+SAVING /wp-content/themes/twentytwentythree\styles\aubergine.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\styles/aubergine.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\styles\block-out.json
+SAVING /wp-content/themes/twentytwentythree\styles\block-out.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\styles/block-out.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\styles\canary.json
+SAVING /wp-content/themes/twentytwentythree\styles\canary.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\styles/canary.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\styles\electric.json
+SAVING /wp-content/themes/twentytwentythree\styles\electric.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\styles/electric.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\styles\grapes.json
+SAVING /wp-content/themes/twentytwentythree\styles\grapes.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\styles/grapes.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\styles\marigold.json
+SAVING /wp-content/themes/twentytwentythree\styles\marigold.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\styles/marigold.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\styles\pilgrimage.json
+SAVING /wp-content/themes/twentytwentythree\styles\pilgrimage.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\styles/pilgrimage.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\styles\pitch.json
+SAVING /wp-content/themes/twentytwentythree\styles\pitch.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\styles/pitch.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\styles\sherbet.json
+SAVING /wp-content/themes/twentytwentythree\styles\sherbet.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\styles/sherbet.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\styles\whisper.json
+SAVING /wp-content/themes/twentytwentythree\styles\whisper.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\styles/whisper.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\templates\404.html
+SAVING /wp-content/themes/twentytwentythree\templates\404.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\templates/404.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\templates\archive.html
+SAVING /wp-content/themes/twentytwentythree\templates\archive.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\templates/archive.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\templates\blank.html
+SAVING /wp-content/themes/twentytwentythree\templates\blank.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\templates/blank.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\templates\blog-alternative.html
+SAVING /wp-content/themes/twentytwentythree\templates\blog-alternative.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\templates/blog-alternative.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\templates\home.html
+SAVING /wp-content/themes/twentytwentythree\templates\home.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\templates/home.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\templates\index.html
+SAVING /wp-content/themes/twentytwentythree\templates\index.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\templates/index.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\templates\page.html
+SAVING /wp-content/themes/twentytwentythree\templates\page.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\templates/page.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\templates\search.html
+SAVING /wp-content/themes/twentytwentythree\templates\search.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\templates/search.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\templates\single.html
+SAVING /wp-content/themes/twentytwentythree\templates\single.html to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree\templates/single.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwentythree\theme.json
+SAVING /wp-content/themes/twentytwentythree\theme.json to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/theme.json
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /2023/02/09/chao-moi-nguoi/feed/
+SAVING /2023/02/09/chao-moi-nguoi/feed/ to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/2023/02/09/chao-moi-nguoi/feed/index.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /Trang%20mẫu/
+BAD RESPONSE STATUS (404): /Trang%20mẫu/
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /comments/feed/
+SAVING /comments/feed/ to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/comments/feed/index.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /feed/
+SAVING /feed/ to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/\/feed/index.html
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-includes/blocks/navigation/style.min.css
+SAVING /wp-includes/blocks/navigation/style.min.css to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-includes/blocks/navigation/style.min.css
+Memory allocated by crawl script: 24576
+Exclusion rules wp-json
+Crawling /wp-includes/blocks/navigation/view-modal.min.js
+SAVING /wp-includes/blocks/navigation/view-modal.min.js to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-includes/blocks/navigation/view-modal.min.js
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Crawling /wp-includes/blocks/navigation/view.min.js
+SAVING /wp-includes/blocks/navigation/view.min.js to C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-includes/blocks/navigation/view.min.js
+Memory allocated by crawl script: 22528
+Exclusion rules wp-json
+Excluding /wp-json/ because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/oembed/1.0/embed because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/wp/v2/posts/1 because of rule wp-json
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/2023/02/09/chao-moi-nguoi/feed/index.html to 2023/02/09/chao-moi-nguoi/feed/index.html in GitHub
+Skipping 2023/02/09/chao-moi-nguoi/feed/index.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/2023/02/09/chao-moi-nguoi/index.html to 2023/02/09/chao-moi-nguoi/index.html in GitHub
+Skipping 2023/02/09/chao-moi-nguoi/index.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/comments/feed/index.html to comments/feed/index.html in GitHub
+Skipping comments/feed/index.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/feed/index.html to feed/index.html in GitHub
+Skipping feed/index.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/index.html to index.html in GitHub
+Skipping index.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/sitemap.xml to sitemap.xml in GitHub
+Skipping sitemap.xml as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wordpress/2023/02/09/chao-moi-nguoi/index.html to wordpress/2023/02/09/chao-moi-nguoi/index.html in GitHub
+Skipping wordpress/2023/02/09/chao-moi-nguoi/index.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold-Italic.woff2 to wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold-Italic.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold-Italic.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold.woff2 to wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular-Italic.woff2 to wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular-Italic.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular-Italic.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular.woff2 to wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2 to wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2 to wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Light.woff2 to wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Light.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Light.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2 to wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.otf.woff2 to wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.otf.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.otf.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2 to wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.otf.woff2 to wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.otf.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.otf.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2 to wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2 in GitHub
+Skipping wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2 as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/parts/comments.html to wp-content/themes/twentytwentythree/parts/comments.html in GitHub
+Skipping wp-content/themes/twentytwentythree/parts/comments.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/parts/footer.html to wp-content/themes/twentytwentythree/parts/footer.html in GitHub
+Skipping wp-content/themes/twentytwentythree/parts/footer.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/parts/header.html to wp-content/themes/twentytwentythree/parts/header.html in GitHub
+Skipping wp-content/themes/twentytwentythree/parts/header.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/parts/post-meta.html to wp-content/themes/twentytwentythree/parts/post-meta.html in GitHub
+Skipping wp-content/themes/twentytwentythree/parts/post-meta.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/screenshot.png to wp-content/themes/twentytwentythree/screenshot.png in GitHub
+Skipping wp-content/themes/twentytwentythree/screenshot.png as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/styles/aubergine.json to wp-content/themes/twentytwentythree/styles/aubergine.json in GitHub
+Skipping wp-content/themes/twentytwentythree/styles/aubergine.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/styles/block-out.json to wp-content/themes/twentytwentythree/styles/block-out.json in GitHub
+Skipping wp-content/themes/twentytwentythree/styles/block-out.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/styles/canary.json to wp-content/themes/twentytwentythree/styles/canary.json in GitHub
+Skipping wp-content/themes/twentytwentythree/styles/canary.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/styles/electric.json to wp-content/themes/twentytwentythree/styles/electric.json in GitHub
+Skipping wp-content/themes/twentytwentythree/styles/electric.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/styles/grapes.json to wp-content/themes/twentytwentythree/styles/grapes.json in GitHub
+Skipping wp-content/themes/twentytwentythree/styles/grapes.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/styles/marigold.json to wp-content/themes/twentytwentythree/styles/marigold.json in GitHub
+Skipping wp-content/themes/twentytwentythree/styles/marigold.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/styles/pilgrimage.json to wp-content/themes/twentytwentythree/styles/pilgrimage.json in GitHub
+Skipping wp-content/themes/twentytwentythree/styles/pilgrimage.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/styles/pitch.json to wp-content/themes/twentytwentythree/styles/pitch.json in GitHub
+Skipping wp-content/themes/twentytwentythree/styles/pitch.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/styles/sherbet.json to wp-content/themes/twentytwentythree/styles/sherbet.json in GitHub
+Skipping wp-content/themes/twentytwentythree/styles/sherbet.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/styles/whisper.json to wp-content/themes/twentytwentythree/styles/whisper.json in GitHub
+Skipping wp-content/themes/twentytwentythree/styles/whisper.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/templates/404.html to wp-content/themes/twentytwentythree/templates/404.html in GitHub
+Skipping wp-content/themes/twentytwentythree/templates/404.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/templates/archive.html to wp-content/themes/twentytwentythree/templates/archive.html in GitHub
+Skipping wp-content/themes/twentytwentythree/templates/archive.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/templates/blank.html to wp-content/themes/twentytwentythree/templates/blank.html in GitHub
+Skipping wp-content/themes/twentytwentythree/templates/blank.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/templates/blog-alternative.html to wp-content/themes/twentytwentythree/templates/blog-alternative.html in GitHub
+Skipping wp-content/themes/twentytwentythree/templates/blog-alternative.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/templates/home.html to wp-content/themes/twentytwentythree/templates/home.html in GitHub
+Skipping wp-content/themes/twentytwentythree/templates/home.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/templates/index.html to wp-content/themes/twentytwentythree/templates/index.html in GitHub
+Skipping wp-content/themes/twentytwentythree/templates/index.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/templates/page.html to wp-content/themes/twentytwentythree/templates/page.html in GitHub
+Skipping wp-content/themes/twentytwentythree/templates/page.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/templates/search.html to wp-content/themes/twentytwentythree/templates/search.html in GitHub
+Skipping wp-content/themes/twentytwentythree/templates/search.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/templates/single.html to wp-content/themes/twentytwentythree/templates/single.html in GitHub
+Skipping wp-content/themes/twentytwentythree/templates/single.html as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-content/themes/twentytwentythree/theme.json to wp-content/themes/twentytwentythree/theme.json in GitHub
+Skipping wp-content/themes/twentytwentythree/theme.json as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-includes/blocks/navigation/style.min.css to wp-includes/blocks/navigation/style.min.css in GitHub
+Skipping wp-includes/blocks/navigation/style.min.css as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-includes/blocks/navigation/view-modal.min.js to wp-includes/blocks/navigation/view-modal.min.js in GitHub
+Skipping wp-includes/blocks/navigation/view-modal.min.js as identical to deploy cache
+Uploading C:/xampp/htdocs/wordpress/wp-content/uploads/wp-static-html-output-1675911803/wp-includes/blocks/navigation/view.min.js to wp-includes/blocks/navigation/view.min.js in GitHub
+Skipping wp-includes/blocks/navigation/view.min.js as identical to deploy cache
